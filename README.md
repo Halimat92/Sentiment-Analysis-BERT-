@@ -1,4 +1,4 @@
-# Sentimen Analysis
+# Sentiment Analysis
 
 This is a real-time sentiment analysis app built using a fine-tuned BERT model on Amazon product reviews. The app classifies text into **Positive**, **Neutral**, or **Negative** categories and gives confidence scores for transparency. Developed with **Gradio** and deployed on **Hugging Face Spaces**.
 
